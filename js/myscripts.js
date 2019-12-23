@@ -8,14 +8,6 @@ const recData = [
          "recomnd":"As a client working with Prabhu for about two years, I can say that he has a profession client centric mindset that demonstrated effective and meaningful results on the data analysis and software development field."
       },
       {
-         "rid":"102",
-         "rname":"Govind Chandranani",
-         "rdesg":"General Manager",
-         "rcompany":"HCL Technologies",
-         "rrel":"Govind managed Prabhu directly",
-         "recomnd":"abcd"
-      },
-      {
          "rid":"103",
          "rname":"Ajmal Mohammad",
          "rdesg":"Big Data Architect",
